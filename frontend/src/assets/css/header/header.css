@@ -4,8 +4,9 @@
     justify-content: space-between;
     align-items: flex-end;
     padding: 2% 0;
-    background-color:rgb(53, 155, 155);
+    background-color:rgb(99, 182, 182);
     width: 100%;
+    margin-bottom: 5rem;
 }
 
 
@@ -31,14 +32,17 @@
     font-weight: 700;
 }
 
-.menu__burguer{
+.menu__burguer_imagem{
     width: 100%;
 }
 
+
 .menu__responsive{
+    margin-right: 1rem;
     width: 15%;
     display: none;
 }
+
 
     @media  screen and (max-width: 1000px){
         .header__logo{
@@ -57,10 +61,12 @@
         }
  }
 
-@media  screen and (max-width: 600px) {
+@media  screen and (max-width: 599px) {
     .header__container{
         align-items: flex-end;
     }
+
+
 
     .header__logo{
         width: 35%;
