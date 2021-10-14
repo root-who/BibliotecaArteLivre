@@ -18,7 +18,7 @@ import MENU from '../../assets/imgs/menu.png'
     right: false
   });
 
-  const [height, setHeight] = React.useState(0);
+
 
    function icon(index){
         switch(index){
@@ -37,13 +37,10 @@ import MENU from '../../assets/imgs/menu.png'
 
    React.useEffect(()=>{
         function handleResize() {
-            setHeight(window.innerWidth)
             if(window.innerWidth >= 600 ){
                 setState({right : false})
             }
         }   
-        
-        
         window.addEventListener('resize', handleResize)
    }, [])
 
@@ -52,7 +49,7 @@ import MENU from '../../assets/imgs/menu.png'
     if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
       return;
     }
-
+    
     setState({ ...state, [anchor]: open });
   };
 

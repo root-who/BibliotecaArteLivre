@@ -7,7 +7,7 @@ import StarRateIcon from '@mui/icons-material/StarRate';
 function TheMostReadBooksList() {
   return (
     <>
-        <h1 className="the_most_read_books">Os livros mais populares&nbsp;&nbsp;
+        <h1 className="the_most_read_books">Os livros mais populares<br></br>
           <StarRateIcon sx={{ color: 'goldenrod'}} ></StarRateIcon>
           <StarRateIcon sx={{ color: 'goldenrod'}} ></StarRateIcon>
           <StarRateIcon sx={{ color: 'goldenrod'}} ></StarRateIcon>

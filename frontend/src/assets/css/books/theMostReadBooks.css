@@ -53,6 +53,7 @@
     }
 }
 
+
 @media  screen and (max-width: 460px) {
     .books__list__item{
         width: 60vw;
