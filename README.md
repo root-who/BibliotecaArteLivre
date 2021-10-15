@@ -1,6 +1,7 @@
 # ArteLivre 📑
 
-![ArteLivre](https://studio.youtube.com/video/b4JvPhkkCZY/edit)
+<iframe width="80%" height="350px" src="https://youtu.be/b4JvPhkkCZY">
+</iframe>
 
 <p align="center">
 <img alt="JAVA" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
@@ -8,7 +9,7 @@
 <img alt="POSTGRES" src="https://img.shields.io/badge/-Postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
 <img alt="REACT" src="https://img.shields.io/badge/-React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"/>
 </p>
 
 ## Sobre o Projeto📖
