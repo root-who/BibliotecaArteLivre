@@ -1,7 +1,6 @@
 # ArteLivre 📑
 
-<iframe width="80%" height="350px" src="https://youtu.be/b4JvPhkkCZY">
-</iframe>
+
 
 <p align="center">
 <img alt="JAVA" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
