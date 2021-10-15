@@ -3,16 +3,15 @@
     display:flex;
     justify-content: space-between;
     align-items: flex-end;
-    background-color: rgb(175, 175, 175);
-    padding: 2% 0 0.5% 0;
+    background-color: rgb(122, 122, 122);
+    padding: 2% 0;
 }
 
 
 .footer__img{
     margin-left: 2rem;
-    border-radius: 50%;
     width: 135px;
-    height: 135px;
+    height: 100px;
 }
 
 .footer__list__links{
@@ -26,10 +25,9 @@
 
 
 .footer_item__link{
-font-size: 16px;
+    font-size: 16px;
     font-weight: 500;
-    color: rgb(50, 50, 170);
-
+    color: #FFFFFF;
     width: 100%;
 }
 
@@ -74,6 +72,10 @@ font-size: 16px;
 
     .footer__list__links{
         width: 30%;
+    }
+
+    .footer_item__link{
+        font-size: 14px;
     }
 
 }

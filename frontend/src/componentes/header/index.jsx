@@ -1,5 +1,5 @@
 import "../../assets/css/header/header.css"
-import LOGO from '../../assets/imgs/arteLivreLogo.gif'
+import LOGO from '../../assets/imgs/arteLivrePretoFundoTransMenor.png'
 
 import React from "react";
 import EventNoteTwoToneIcon from '@mui/icons-material/EventNoteTwoTone';

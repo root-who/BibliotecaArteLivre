@@ -1,6 +1,6 @@
 import React from "react";
 import ContactSupportIcon from '@mui/icons-material/ContactSupport';
-import LOGO from '../../assets/imgs/arteLivreLogo.png'
+import LOGO from '../../assets/imgs/arteLivreBrancoFundoTransMenor.png'
 import { Link } from "@mui/material";
 import EventNoteTwoToneIcon from '@mui/icons-material/EventNoteTwoTone';
 import MenuBookIcon from '@mui/icons-material/MenuBook';

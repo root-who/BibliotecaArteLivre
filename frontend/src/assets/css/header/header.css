@@ -1,34 +1,40 @@
 
 .header__container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-end;
     padding: 2% 0;
-    background-color:rgb(99, 182, 182);
+    background-color: rgb(238, 240, 240);
     width: 100%;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
 .header__logo{
-    margin-left: 2rem;
+
     margin-top: 2rem;
     width: 20%;
-    border-radius: 60%;
+
 }
 
 .header__list_links{
-    margin: 0 0;
+    /* border-bottom: rgb(140, 207, 207) 6px solid; */
+    margin: 0  0;
     padding: 0 0;
-    width: 50%;
+    width: 65%;
     display: flex;
     justify-content: space-around;
     list-style: none;
 }
 
 .header_item__link{
-    color: rgb(50, 50, 170);
+    color: #000000;
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 600;
+}
+
+.header_item__link:hover{
+    color: rgb(110, 182, 182);
 }
 
 .menu__burguer_imagem{
@@ -51,6 +57,9 @@
     .header__list_links{
         width: 60%;
     }
+    .header_item__link{
+        font-size: 20px;
+    }
 
     }
 
@@ -58,14 +67,15 @@
         .header__list_links{
         width: 65%;
         }
+    .header_item__link{
+        font-size: 18px;
+    }
  }
 
 @media  screen and (max-width: 599px) {
     .header__container{
         align-items: flex-end;
     }
-
-
 
     .header__logo{
         width: 35%;
